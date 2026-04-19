@@ -1,4 +1,3 @@
-````markdown
 # Performance Analysis of 5G New Radio (5G NR) Transmitter Models Using QAM Modulation Schemes
 
 A MATLAB Simulink-based project focused on evaluating the performance of 5G NR transmitter models using different QAM modulation schemes under ideal, impaired, and compensated operating conditions.
